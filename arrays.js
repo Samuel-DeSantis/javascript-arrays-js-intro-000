@@ -13,3 +13,4 @@ function destructivelyRemoveElementFromBeginningOfArray(array) {return array.shi
 function destructivelyRemoveElementFromEndOfArray(array) {return array.pop();}
 
 function accessElementInArray(array, element) {return array[element];}
+console.log(destructivelyAddElementToBeginningOfArray(chocolateBars,"butterfinger"));
